@@ -21,7 +21,7 @@ A sleek and fun web application that fetches random GIFs from an API, built usin
 - Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/random-gif-generator.git
+    git clone https://github.com/bikashcool/livelygif.git
     cd random-gif-generator
     ```
 
